@@ -1,0 +1,17 @@
+# Models
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env
+.env
