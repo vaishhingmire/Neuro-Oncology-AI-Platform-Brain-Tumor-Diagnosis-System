@@ -106,7 +106,7 @@ backend/models/
 
 ## 📄 Research Work
 
-Paper submitted to IEEE Conference (ICSIE 2026)
+Paper submitted to Conference (ICSIE 2026)
 
 ---
 
